@@ -1,0 +1,72 @@
+{
+
+"ServerAuthorizedPerms": {
+"RegisterID": "825336881314267136",
+"BanSpearID": "825336886490693662",
+"JailSpearID": "827475231021989940",
+"MuteSpearID": "825336882173968414",
+"VoiceMuteSpearID": "827474870509764608",
+"AbilityID": "807971749865586695",
+"OzelRol": "807971749877907542"
+},
+
+"Channels": {
+"RulesLogChannelID": "825336934254772234",
+"BanLogChannelID": "825337031126417408",
+"JailLogChannelID": "825337032246558760",
+"MuteLogChannelID": "825337033245327370",
+"VoiceMuteLogChannelID": "825337034210017311"
+},
+
+"Penalties": {
+"JailRole": "825336858723745792",
+"MuteRole": "825336859445690398",
+"YasakliTag": "807990882397585438"
+},
+
+"ServerSettings": {
+"GuildID": "825314212439654421",
+"GuildName": "୪ Milona #YAKINDA",
+"KatildiRol": "825336887362191370",
+"ToplantiKanal": "825336948855013396",
+"UnregisterID": "825336862351949845",
+
+"ServerTag": "୪",
+"UnTag": ""
+},
+
+"Colors": {
+"Mavi": "#49d2df",
+"Mor": "#af23e7",
+"Pembe": "#e723de",
+"Sarı": "#d8ca4c",
+"Altın": "#f7a831",
+"Magenta": "#da42ae",
+"Kırmızı": "#c72828",
+"Yesil": "#43dd64",
+"NoEmbed": "#2f3136",
+"Special": "cf8c44"
+},
+
+"Emoji": {
+"True": "<a:milona_kirmizitik:825673278101520384>",
+"False": "<a:milona_carpi:825673698299215882>",
+"TrueID": "825673278101520384",
+"FalseID": "825673698299215882"
+},
+
+"EmojiSayı": {
+"sifir": "",
+"bir": "",
+"iki": "",
+"uc": "",
+"dort": "",
+"bes": "",
+"alti": "",
+"yedi": "",
+"sekiz": "",
+"dokuz": ""
+}
+
+
+}
